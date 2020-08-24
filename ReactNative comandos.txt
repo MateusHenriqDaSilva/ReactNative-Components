@@ -1,0 +1,14 @@
+comandos 
+https://reactnative.dev/docs/environment-setup
+
+1 - npm install -g expo-cli
+
+2 - expo init AwesomeProject
+
+3 - cd AwesomeProject 
+
+4 - npm start
+
+https://www.devmedia.com.br/?msclkid=240bf4c2656e1495a991ab81686c9e56
+
+https://github.com/cod3rcursos/curso-react-native/blob/master/lambe/src/Navigator.js
